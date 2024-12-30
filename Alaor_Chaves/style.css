@@ -37,7 +37,7 @@ section{
 
 h1{
     display: flex;
-    width: 500px;
+    max-width: 500px;
     height: 100px;
     justify-content: center;
     align-items: center;
